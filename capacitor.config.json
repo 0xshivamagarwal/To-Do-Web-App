@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "to-do",
+  "appName": "to-do-web-app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

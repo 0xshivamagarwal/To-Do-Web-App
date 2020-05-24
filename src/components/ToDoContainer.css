@@ -22,3 +22,8 @@
 .container a {
   text-decoration: none;
 }
+
+.update-to-do-popover .popover-content {
+	height: auto;
+	width: auto;
+}
